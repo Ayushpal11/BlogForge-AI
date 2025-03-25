@@ -1,0 +1,8 @@
+streamlit>=1.24.0
+numpy
+pandas
+langchain>=0.0.300
+langchain-community>=0.0.10
+mistralai>=0.0.7
+duckduckgo-search>=3.9.3
+python-dotenv>=1.0.0
